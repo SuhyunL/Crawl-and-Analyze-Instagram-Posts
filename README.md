@@ -3,8 +3,8 @@
 
 Hello!
 
-Crawl&Analyze is a program that crawls real-time Instagram posts based on keywords.
-<br/>We crawl 3,000 real-time Instagram posts, parse the captions and texts, and then analyze & return into a Plotly graph! Crawl&Analyze would allow you to analyze the way people understand & consume a word, brand, tag, and everything.
+Crawl&Analyze is a program that crawls real-time Instagram posts based on keywords, made by Suhyun Lee.
+<br/>We crawl 3,000 real-time Instagram posts, parse the captions and texts, and then analyze & return into a Plotly graph! Crawl&Analyze would let you to analyze the way people understand & consume a word, brand, and everything.
 
 ### To run this program,
 
@@ -16,7 +16,7 @@ Crawl&Analyze is a program that crawls real-time Instagram posts based on keywor
 ![](https://imgur.com/fqJji2o.gif)
 
 If you put a keyword '80s',
-- 1990s: The most relatable word with the keyword
+- 1990s: The most relatable word with the keyword (Seems like they tend to be considered as something similar)
 - Music / Rock / Aesthetic : People seemed to think of the 80s as an artistic, memorable, and musical.
 - Nostalgia, Recall, Longing : People consider 80s as the time full of aesthetics and music, so it's natural to miss it!
 
