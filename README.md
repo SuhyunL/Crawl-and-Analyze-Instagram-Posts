@@ -6,10 +6,10 @@ Hello!
 Crawl&Analyze is a program that crawls real-time Instagram posts based on keywords, made by Suhyun Lee.
 <br/>We crawl 3,000 real-time Instagram posts, parse the captions and texts, and then analyze & return into a Plotly graph! Crawl&Analyze would let you to analyze the way people understand & consume a word, brand, and everything.
 
-### To run this program,
+### To run this program, download it and run:
 
 ```
-  FLASK APP=project flask run
+  $FLASK APP=project flask run
 ````
 
 # Examples
